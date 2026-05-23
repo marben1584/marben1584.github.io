@@ -6,8 +6,9 @@ font-family: 'Verdana';
 h1 {
 text-align: center;
   font-size: 1.5rem;
-  padding: 20px 10px 20px 10px;
+  padding: 10px 20px;
   background-color: rgba(164, 190, 227, .6);
-  /* Bringing in the background so that it doesnt span all the way across the page  */
-  display: inline-block;
+width: fit-content;
+  margin: 0 auto;
+  border-radius: 8px;
 }
