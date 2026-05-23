@@ -38,4 +38,6 @@ section p {
     margin: 20px 0;
     border: 2px solid white;
     background-color: rgba(255, 255, 255, .25);
+    width: fit-content;
+    justify-content: center;
   }
