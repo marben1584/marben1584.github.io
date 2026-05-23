@@ -33,7 +33,7 @@ ul li a {
 ul li a:hover {
   background-color: rgb(55, 50, 67);
 
-#about {
+#about p {
     padding: 10px;
     margin: 20px;
     border: 2px solid white;
