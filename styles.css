@@ -16,7 +16,7 @@ width: fit-content;
 
 ul {
   list-style-type: none;
-  margin: 0;
+  margin: 10px 0px 10px 0px;
   padding: 0;
   background-color: rgb(103, 119, 142);
   display: flex;
