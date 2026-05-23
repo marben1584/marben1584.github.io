@@ -1,6 +1,12 @@
 body {
 background: #EEAECA;
 background: radial-gradient(circle,rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
-
 font-family: 'Verdana';
+
+h1 {
+text-align: center;
+  font-size: 1em;
+  padding: 10px;
+  background-color: rgba(37, 150, 190, 0.5);
+  
 }
