@@ -38,8 +38,10 @@ section p {
     margin: 20px auto;
     border: 2px solid white;
     border-radius: 10px;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.5)
     background-color: rgba(255, 255, 255, .25);
     width: fit-content;
     justify-content: center;
     text-align: center;
+    line-height: 1rem;
   }
