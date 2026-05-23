@@ -33,9 +33,9 @@ ul li a {
 ul li a:hover {
   background-color: rgb(55, 50, 67);
 
-#about p {
-    padding: 10px;
-    margin: 20px;
+#about {
+    padding: 0px;
+    margin: 0px;
     border: 2px solid white;
     background-color: rgba(255, 255, 255, .25);
   }
