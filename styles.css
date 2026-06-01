@@ -72,3 +72,19 @@ nav a:hover {
   background-color: rgb(92, 83, 112);
   color: white;
 }
+
+#projects th, #projects td {
+  border: 1px solid #dddddd;
+  padding: 12px 15px;
+  text-align: left;
+}
+
+#projects tfoot td {
+  background-color: #f9f9f9;
+  font-style: italic;
+  color: #555555;
+}
+
+#projects .highlight {
+  background-color: #f2f7fa;
+}
