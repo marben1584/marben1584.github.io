@@ -56,3 +56,19 @@ footer {
   background-color: rgb(55, 50, 67);
 
   }
+
+nav a:hover {
+  transform: scale(1.02);
+}
+
+#projects table {
+  width: 100;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-family: sans-serif;
+}
+
+#projects thead {
+  background-color: rgb(92, 83, 112);
+  color: white;
+}
