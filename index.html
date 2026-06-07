@@ -80,10 +80,14 @@
         <p>Feel free to shoot me an email or reach out on LinkedIn!</p>
         <div class="contact-form">
           <form action="action_page.php">
-            <label for="name">Your Name</label>
-            <input type="text" id="name" name="name" placeholder="Your name..">
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" placeholder="Your name.." required >
             <label for="email">E-mail</label>
-            <input type="email" id="email" name="email" placeholder="E-mail address">
+            <input type="email" id="email" name="email" placeholder="E-mail address" required >
+            <label for="subject">Subject</label>
+            <input type="text" id="subject" name="subject" placeholder="Type your message here">
+            <label for="submit">Submit</label>
+            <input type="submit" id="submit" name="submit">
           </form>
         </div>
       </section>
