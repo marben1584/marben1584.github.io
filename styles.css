@@ -130,4 +130,7 @@ submit {
     transition: #f2f7fa 0.3s ease;
   }
 
+submit:hover, input:hover, textarea:hover {
+  background-color: rgba(92, 83, 112, 0.5);
+}
   
