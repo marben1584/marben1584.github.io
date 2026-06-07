@@ -90,3 +90,12 @@ nav a:hover {
 #projects .highlight {
   background-color: #f2f7fa;
 }
+
+  /* Navbar Flexbox */
+  .nav-menu {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+}
+
+  /* Main Content Flexbox */
