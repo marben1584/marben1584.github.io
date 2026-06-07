@@ -132,5 +132,6 @@ submit {
 
 submit:hover, input:hover, textarea:hover {
   background-color: rgba(92, 83, 112, 0.5);
+  color: white;
 }
   
