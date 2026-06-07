@@ -121,4 +121,13 @@ nav a:hover {
   width: 100%;
 
 }
+
+input, textarea {
+  transition: #f2f7fa 0.3s ease;
+}
+
+submit {
+    transition: #f2f7fa 0.3s ease;
+  }
+
   
