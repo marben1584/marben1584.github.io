@@ -99,3 +99,17 @@ nav a:hover {
 }
 
   /* Main Content Flexbox */
+  .main-content {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  /* Contact Form Flexbox */
+  .contact {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    gap: 15px;
+
+  }
