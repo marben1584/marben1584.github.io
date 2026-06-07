@@ -76,18 +76,33 @@
   </section>
 
       <section id="contact">
-        <h1>Contact Me</h1>
-        <p>Feel free to shoot me an email or reach out on LinkedIn!</p>
-        <div class="contact-form">
-          <form action="action_page.php" class="contact">
-            <label for="name">Name</label>
-            <input type="text" id="name" name="name" placeholder="Your name.." required >
-            <label for="email">E-mail</label>
-            <input type="email" id="email" name="email" placeholder="E-mail address" required >
-            <label for="subject">Subject</label>
-            <textarea id="subject" name="subject" rows="5" placeholder="Type your message here"></textarea>
-            <input type="submit" id="submit" name="submit">
-          </form>
+<h1>Contact Me</h1>
+  <p>Feel free to shoot me an email or reach out on LinkedIn!</p>
+  
+  <form action="action_page.php" class="contact-form">
+    
+    <div class="form-group">
+      <label for="name">Name</label>
+      <input type="text" id="name" name="name" placeholder="Your name.." required>
+    </div>
+
+    <div class="form-group">
+      <label for="email">E-mail</label>
+      <input type="email" id="email" name="email" placeholder="E-mail address" required>
+    </div>
+
+    <div class="form-group">
+      <label for="subject">Subject</label>
+      <input type="text" id="subject" name="subject" placeholder="Type your message here">
+    </div>
+
+    <div class="form-group">
+      <label for="message">Message</label>
+      <textarea id="message" name="message" rows="5"></textarea>
+    </div>
+
+    <input type="submit" id="submit" value="Submit">
+  </form>
         </div>
       </section>
       
