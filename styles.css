@@ -112,6 +112,11 @@ nav a:hover {
     gap: 15px;
     text-align: left;
   }
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
 
 #contact {
   display: flex;
