@@ -32,3 +32,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/marben1584/marben1584.github.io
+
+## Contact
+Feel free to contact me on <a href="https://www.linkedin.com/in/mariyah-bennett-b0446340b/">LinkedIn!</a>
+
